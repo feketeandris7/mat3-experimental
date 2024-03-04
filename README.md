@@ -8,8 +8,8 @@ library with Angular 17.
 ## Requirements
 
 | Name        | Version |
-|-------------|----|
+| ----------- | ------- |
 | Node.js     | 20.11.1 |
-| npm         | 10.2.4 |
-| Angular CLI | 17.2.2 |
-| TypeScript  |    |
+| npm         | 10.2.4  |
+| Angular CLI | 17.2.2  |
+| TypeScript  | 5.3.2   |
